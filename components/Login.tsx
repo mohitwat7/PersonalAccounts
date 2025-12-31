@@ -87,7 +87,6 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
 
         <div className="mt-12 text-white/20 text-[10px] text-center uppercase tracking-[0.2em]">
           <p>Personal Accounting Access • Mython Systems</p>
-          <p className="mt-2">Hint: Mython / IluvMOM@0718</p>
         </div>
       </div>
     </div>
